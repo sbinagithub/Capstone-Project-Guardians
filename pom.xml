@@ -61,11 +61,6 @@
             <version>1.2.17</version>
         </dependency>
             <dependency>
-            	<groupId>tek.sdet.bdd.framework</groupId>
-            	<artifactId>tek.bdd.guardians</artifactId>
-            	<version>0.0.1-SNAPSHOT</version>
-            </dependency>
-            <dependency>
 <groupId>com.github.javafaker</groupId>
 <artifactId>javafaker</artifactId>
 <version>1.0.2</version>
