@@ -13,7 +13,7 @@ import org.openqa.selenium.support.FindBy;
 @RunWith(Cucumber.class)
 @CucumberOptions
 (
-        tags = "@Smoker",
+        tags = "@Smoke",
         	 // Specifies which scenario(s) to run using the given tag
         features = ("classpath:features"), // Specifies the path to the feature files
         glue = "tek.bdd.capstone", // Specifies the package containing step definition classes
